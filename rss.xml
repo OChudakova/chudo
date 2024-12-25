@@ -1,0 +1,61 @@
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Асоціація фахівців з ДЦП та батьків</title>
+  <link>https://www.dcp.in.ua/</link>
+  <description>Вебсайт для допомоги батькам дітей з ДЦП</description>
+  <item>
+    <title>Реабілітаційні центри для дітей у Харкові</title>
+    <link>https://www.dcp.in.ua/reabilitacia-dcp/kharkiv</link>
+    <description>Перелік реабілітаційних центрів для дітей у Харкові</description>
+  </item>
+  <item>
+    <title>Реабілітаційні центри для дітей у Києві</title>
+    <link>https://www.dcp.in.ua/reabilitacia-dcp/kyiv</link>
+    <description>Перелік реабілітаційних центрів для дітей у Києві</description>
+  </item>
+  <item>
+    <title>Реабілітаційні центри для дітей у Дніпрі</title>
+    <link>https://www.dcp.in.ua/reabilitacia-dcp/dnipro</link>
+    <description>Перелік реабілітаційних центрів для дітей у Дніпрі</description>
+  </item>
+  <item>
+    <title>Реабілітаційні центри для дітей у Черкасах</title>
+    <link>https://www.dcp.in.ua/reabilitacia-dcp/cherkasy</link>
+    <description>Перелік реабілітаційних центрів для дітей у Черкасах</description>
+  </item>
+  <item>
+    <title>Реабілітаційні центри для дітей у Трускавці</title>
+    <link>https://www.dcp.in.ua/reabilitacia-dcp/truskavets</link>
+    <description>Перелік реабілітаційних центрів для дітей у Трускавці</description>
+  </item>
+   <item>
+    <title>Зошити для дітей з особливими потребами (ООП)</title>
+    <link>https://www.dcp.in.ua/zoshyty-dlya-ditey-z-osoblybymy-potrebamy</link>
+    <description>Зошити для інклюзивного навчання дітей з особливими потребами (ООП)</description>
+  </item>
+    <item>
+    <title>Зошити для слабозорих дітей та з вадами зору</title>
+    <link>https://www.dcp.in.ua/zoshity-dlya-slabozoryh-ditey</link>
+    <description>Зошити для інклюзивного навчання для слабозорих дітей та дітей з вадами зору</description>
+  </item>
+  <item>
+    <title>Реабілітація ДЦП</title>
+    <link>https://www.dcp.in.ua/reabilitacia-dcp</link>
+    <description>Реабілітація ДЦП в різних містах України</description>
+  </item>
+  <item>
+    <title>Що таке ДЦП</title>
+    <link>https://www.dcp.in.ua/blog/scho-take-dcp</link>
+    <description>Що таке ДЦП</description>
+  </item>
+  <item>
+    <title>Контакти</title>
+    <link>https://www.dcp.in.ua/contacts</link>
+    <description>Контакти Асоціації фахівців з ДЦП та батьків</description>
+  </item>
+</channel>
+
+</rss>
